@@ -26,7 +26,7 @@
     "url": "https://github.com/chrisJohn404/ljswitchboard-version_manager/issues"
   },
   "dependencies": {
-    "async": "1.5.2",
+    "async": "2.6.4",
     "cheerio": "1.0.0-rc.3",
     "dict": "1.4.0",
     "q": "1.5.1",
